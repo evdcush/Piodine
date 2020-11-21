@@ -1,0 +1,21 @@
+{
+    "name": "piodine",
+    "displayName": "Piodine",
+    "description": "'A dark theme so you can have your 3.141592653589793238 and eat it too.'",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Piodine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Piodine-color-theme.json"
+            }
+        ]
+    }
+}
